@@ -9,3 +9,5 @@
 ### Preview
 
 ![](https://media.giphy.com/media/LmOcBqo8SVDRW9UmpT/giphy.gif)
+
+* Demo Link: https://mahendra0859.github.io/CSS-3-Smooth-Scroll/
